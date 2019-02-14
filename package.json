@@ -1,0 +1,17 @@
+{
+  "name": "server-mobile-chat",
+  "version": "1.0.0",
+  "description": "Back-end for Mobile Chat",
+  "main": "server.js",
+  "repository": "git@github.com:vbguard/server-mobile-chat.git",
+  "author": "Viktor Bulvarenko <silken.ua@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "http": "^0.0.0",
+    "http2": "^3.3.7",
+    "https": "^1.0.0",
+    "mongojs": "^2.6.0",
+    "socket.io": "^2.2.0"
+  }
+}
